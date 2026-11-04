@@ -7,6 +7,34 @@ I design and build products where complex workflows need to feel simple — from
 
 [Portfolio](https://whoisegor.ru/) · [LinkedIn](https://www.linkedin.com/in/shikakker/) · [Design work](https://www.behance.net/shikakker) · [Email](mailto:egor@whoisegor.ru)
 
+<!-- activity:start -->
+### GitHub activity
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shikakker&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true&amp;theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shikakker&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true&amp;theme=default" height="145" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shikakker&amp;theme=github-dark-blue&amp;hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=shikakker&amp;theme=default&amp;hide_border=true" height="145" alt="GitHub contribution streak" />
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shikakker/shikakker/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shikakker/shikakker/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shikakker/shikakker/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution grid" />
+</picture>
+
+<details>
+  <summary>View contribution activity over time</summary>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikakker&amp;bg_color=00000000&amp;color=8b949e&amp;line=2ea043&amp;point=2ea043&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  </p>
+</details>
+<!-- activity:end -->
+
 ---
 
 ### Selected work
